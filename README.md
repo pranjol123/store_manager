@@ -13,6 +13,8 @@ Store employee: Employees can make sell of the product and can see product/busin
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/63489096/186502511-c084a649-8865-473f-8cc0-cda2aaf66c1a.png)
+![image](https://user-images.githubusercontent.com/63489096/186502727-841bc208-2e9c-4c9b-a78b-3f7598fbb5c6.png)
+![image](https://user-images.githubusercontent.com/63489096/186502802-c6446a85-3fa1-49b6-8c34-71c0250fe272.png)
 
 Dart and flutter have been used to create the app. In the backend, firebase login authentication and 
 firestore database has been used. Several plugins from the pub.dev have been used in the app. 
