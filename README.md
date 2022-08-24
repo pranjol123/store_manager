@@ -11,6 +11,9 @@ week or month or day. Also, he can search the product by product name or by prod
 Owner has the full control of the app.
 Store employee: Employees can make sell of the product and can see product/business information. 
 
+Screenshots:
+![image](https://user-images.githubusercontent.com/63489096/186502511-c084a649-8865-473f-8cc0-cda2aaf66c1a.png)
+
 Dart and flutter have been used to create the app. In the backend, firebase login authentication and 
 firestore database has been used. Several plugins from the pub.dev have been used in the app. 
 Moreover, few activities have been implemented from some of the existing project of GitHub. Most of 
